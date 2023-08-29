@@ -22,6 +22,10 @@ title: Project
   Time: May 2022 - May 2023
 
 <br>
+<div>
+<img src="/images/zp4.JPG">
+</div>
+<br>
 
 ## Curriculum design
 
@@ -32,6 +36,10 @@ title: Project
   Time: Mar 2023 - Jun 2023
 
 <br>
+<div>
+<img src="/images/zp3.JPG">
+</div>
+<br>
 
 - **Intelligent street light design based on the Internet of Things**
   
@@ -39,5 +47,9 @@ title: Project
 
   Time: Mar 2022 - Jun 2022
   
+<br>
+<div>
+<img src="/images/zpa.JPG">
+</div>
 <br>
   
