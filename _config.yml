@@ -7,7 +7,7 @@ url: https://wangzhipeng2002.github.io
 # Owner/author information
 owner:
   name: Zhipeng Wang
-  avatar: wangzhipeng.jpg
+  avatar: zzzp.jpg
   description: Two roads diverged in woods, I took the one less traveled by.
  # bio:
   email: 832101202@fzu.edu.cn
@@ -20,14 +20,10 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
+  - title: Project
+    url: /project/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
