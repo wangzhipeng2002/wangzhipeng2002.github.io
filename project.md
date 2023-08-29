@@ -11,7 +11,9 @@ title: Project
 
 Advisor: Professor Wang Shiping (College of Computer and Data Science, Fuzhou University)
 
-Time: May 2023 - Now<br>
+Time: May 2023 - Now
+
+<br>
 
 **Smart e-waste community recycling station**
   
@@ -27,7 +29,9 @@ Time: May 2022 - May 2023
 
 Advisor: Dr. FookLong Lo (Maynooth University)
 
-Time: Mar 2023 - Jun 2023<br>
+Time: Mar 2023 - Jun 2023
+
+<br>
 
 **Intelligent street light design based on the Internet of Things**
   
