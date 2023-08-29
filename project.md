@@ -6,6 +6,7 @@ title: Project
 
 Lastest Update: 27th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
+
 ## Student Research Training Program
 
 - May 2023 - Now: **Intelligent distribution system of electric vehicle based on image recognition**
@@ -22,11 +23,11 @@ Advisor: *Associate Professor Qian Hui* (College of Physics and information Engi
 
 - Mar 2023 - Jun 2023: **Manufacture of portable virtual signal analyzer**
 
-Advisor: *Dr.FookLong Lo* (Maynooth University)<br>
+Advisor: *Dr. FookLong Lo* (Maynooth University)<br>
 
 - Mar 2022 - Jun 2022: **Intelligent street light design based on the Internet of Things**
   
-Advisor: *Dr.ChinHong Wong* (Maynooth University)
+Advisor: *Dr. ChinHong Wong* (Maynooth University)
 
 <br>
   
