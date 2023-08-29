@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://wangzhipeng2002.github.io/abzp.jpg" class="floatpic" width="360" height="360">
+<img src="https://wangzhipeng.space/abzp.jpg" class="floatpic" width="360" height="360">
 
 Here is **Zhipeng Wang (王志鹏)**.
 
