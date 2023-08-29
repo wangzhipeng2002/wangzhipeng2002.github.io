@@ -1,32 +1,17 @@
 title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline: Here is personal website of Zhipeng Wang. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://wangzhipeng2002.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
+  name: Zhipeng Wang
   avatar: hanlin.jpg
   description: Two roads diverged in woods, I took the one less traveled by.
  # bio:
-  email: hanlin.cai@ieee.org
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
-
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-
+  email: 832101202@fzu.edu.cn
+  github: wangzhipeng2002
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
@@ -35,16 +20,12 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
   - title: Fundings
     url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
   - title: Blogs
     url: /blogs/
 
@@ -78,7 +59,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: geniowang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
