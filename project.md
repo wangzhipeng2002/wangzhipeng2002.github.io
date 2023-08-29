@@ -7,25 +7,33 @@ title: Project
 
 ## Student Research Training Program
 
-- May 2023 - Now: **Intelligent distribution system of electric vehicle based on image recognition**
-  
-Advisor: *Professor Wang Shiping* (College of Computer and Data Science, Fuzhou University)<br>
+**Intelligent distribution system of electric vehicle based on image recognition**
 
-- May 2022 - May 2023: **Smart e-waste community recycling station**
+Advisor: Professor Wang Shiping (College of Computer and Data Science, Fuzhou University)
+
+Time: May 2023 - Now<br>
+
+**Smart e-waste community recycling station**
   
-Advisor: *Associate Professor Qian Hui* (College of Physics and information Engineering, Fuzhou University)
+Advisor: Associate Professor Qian Hui (College of Physics and information Engineering, Fuzhou University)
+
+Time: May 2022 - May 2023
 
 <br>
 
 ## Curriculum design
 
-- Mar 2023 - Jun 2023: **Manufacture of portable virtual signal analyzer**
+**Manufacture of portable virtual signal analyzer**
 
-Advisor: *Dr. FookLong Lo* (Maynooth University)<br>
+Advisor: Dr. FookLong Lo (Maynooth University)
 
-- Mar 2022 - Jun 2022: **Intelligent street light design based on the Internet of Things**
+Time: Mar 2023 - Jun 2023<br>
+
+**Intelligent street light design based on the Internet of Things**
   
-Advisor: *Dr. ChinHong Wong* (Maynooth University)
+Advisor: Dr. ChinHong Wong (Maynooth University)
 
+Time: Mar 2022 - Jun 2022
+  
 <br>
   
