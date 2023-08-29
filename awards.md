@@ -6,6 +6,7 @@ title: Awards
 
 Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
+
 ## Scholarships
 
 - Jun 2023：Advanced Individual in Spiritual Civilization of Fuzhou University (Individual Scholarship)
