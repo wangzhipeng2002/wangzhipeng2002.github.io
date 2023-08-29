@@ -21,6 +21,7 @@ I am a junior student majoring in **Electronic Information Engineering** at Fuzh
   
 <br>
 
+---
 
 ## Research Interests
 
@@ -28,6 +29,8 @@ I am a junior student majoring in **Electronic Information Engineering** at Fuzh
 - Smart Internet of Things
 
 <br>
+
+---
 
 ## News and Updates
 
