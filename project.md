@@ -11,7 +11,7 @@ title: Project
 
   Advisor: Professor Wang Shiping (College of Computer and Data Science, Fuzhou University)
 
-Time: May 2023 - Now
+  Time: May 2023 - Now
 
 <br>
 
@@ -19,7 +19,7 @@ Time: May 2023 - Now
   
   Advisor: Associate Professor Qian Hui (College of Physics and information Engineering, Fuzhou University)
 
-Time: May 2022 - May 2023
+  Time: May 2022 - May 2023
 
 <br>
 
@@ -29,7 +29,7 @@ Time: May 2022 - May 2023
 
   Advisor: Dr. FookLong Lo (Maynooth University)
 
-Time: Mar 2023 - Jun 2023
+  Time: Mar 2023 - Jun 2023
 
 <br>
 
@@ -37,7 +37,7 @@ Time: Mar 2023 - Jun 2023
   
   Advisor: Dr. ChinHong Wong (Maynooth University)
 
-Time: Mar 2022 - Jun 2022
+  Time: Mar 2022 - Jun 2022
   
 <br>
   
