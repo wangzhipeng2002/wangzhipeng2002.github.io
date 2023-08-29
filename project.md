@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /project/index.html
+title: Project
 ---
 
 Lastest Update: 27th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
