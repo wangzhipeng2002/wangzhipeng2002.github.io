@@ -8,15 +8,8 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- June 2023：Advanced Individual in Spiritual Civilization of Fuzhou University (Individual Scholarship).
+- March 2023：Advanced Individual in Spiritual Civilization of Fuzhou University (Individual Scholarship).<br>
 
 ## Competitions
 
