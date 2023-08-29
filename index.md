@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://wangzhipeng2002.github.io/okzp.jpg" class="floatpic" width="360" height="360">
 
-Here is **Zhipeng Wang (Genio, 王志鹏)**.
+Here is **Zhipeng Wang (王志鹏)**.
 
 I am a junior student majoring in **Electronic Information Engineering** at Fuzhou University and **Electronic Engineering** at Maynooth University (Ireland, Combined Degrees). 
 
@@ -18,20 +18,14 @@ I am a junior student majoring in **Electronic Information Engineering** at Fuzh
 - **Sep 2021 - June 2025:** Maynooth University (BEng)
 - **Sep 2018 - June 2021:** Fuzhou No. 4 Middle School (senior high school)
 - **Sep 2015 - June 2018:** Fuzhou No. 19 Middle School (junior high school)
-
 <br>
-
 ---
-
 ## Research Interests
 
 - Artificial Intelligence
 - Smart Internet of Things
-
 <br>
-
 ---
-
 ## News and Updates
 
 - **Aug 2023：**Happy to win the provincial second prize of Chinese Collegiate Computing Competition.
