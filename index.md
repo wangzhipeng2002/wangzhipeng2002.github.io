@@ -12,12 +12,20 @@ I am a junior student majoring in **Electronic Information Engineering** at Fuzh
 
 <br>
 
+## Major course
+
+Real-Time and Embedded Systems, Software Engineering, Analogue Electronics, Introduction to Telecommunications, Digital Systems, Electric Circuits, Signals &Systems
+
+<br>
+
 ## Academic Background
 
 - Sep 2021 - June 2025: Fuzhou University (BEng)
 - Sep 2021 - June 2025: Maynooth University (BEng)
 - Sep 2018 - June 2021: Fuzhou No. 4 Middle School 
-- Sep 2015 - June 2018: Fuzhou No. 19 Middle School<br>
+- Sep 2015 - June 2018: Fuzhou No. 19 Middle School
+  
+  <br>
 
 ## News and Updates
 
