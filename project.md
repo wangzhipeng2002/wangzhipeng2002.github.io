@@ -9,17 +9,17 @@ title: Project
 
 - **Intelligent distribution system of electric vehicle based on image recognition**
 
- Advisor: Professor Wang Shiping (College of Computer and Data Science, Fuzhou University)
+  Advisor: Professor Wang Shiping (College of Computer and Data Science, Fuzhou University)
 
- Time: May 2023 - Now
+  Time: May 2023 - Now
 
 <br>
 
 - **Smart e-waste community recycling station**
   
- Advisor: Associate Professor Qian Hui (College of Physics and information Engineering, Fuzhou University)
+  Advisor: Associate Professor Qian Hui (College of Physics and information Engineering, Fuzhou University)
 
- Time: May 2022 - May 2023
+  Time: May 2022 - May 2023
 
 <div class="second">
 <img src="/images/zp4.jpg">
@@ -31,9 +31,9 @@ title: Project
 
 - **Manufacture of portable virtual signal analyzer**
 
- Advisor: Dr. FookLong Lo (Maynooth University)
+  Advisor: Dr. FookLong Lo (Maynooth University)
 
- Time: Mar 2023 - Jun 2023
+  Time: Mar 2023 - Jun 2023
 
 <div>
 <img src="/images/zp3.jpg">
@@ -42,9 +42,9 @@ title: Project
 
 - **Intelligent street light design based on the Internet of Things**
   
- Advisor: Dr. ChinHong Wong (Maynooth University)
+  Advisor: Dr. ChinHong Wong (Maynooth University)
 
- Time: Mar 2022 - Jun 2022
+  Time: Mar 2022 - Jun 2022
 
 <div>
 <img src="/images/zpa.jpg">
