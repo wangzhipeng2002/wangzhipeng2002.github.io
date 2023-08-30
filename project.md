@@ -17,6 +17,8 @@ title: Project
 </div>
 <br>
 
+---
+
 ## Curriculum design
 
 - **Manufacture of portable virtual signal analyzer**<br>Advisor: Dr. FookLong Lo (Maynooth University)<br>Time: Mar 2023 - Jun 2023<br>
