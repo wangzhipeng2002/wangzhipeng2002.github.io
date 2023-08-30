@@ -2,6 +2,8 @@
 layout: page
 ---
 
+Lastest Update: 30th Aug 2023&nbsp;  [点此切换中文 (Chinese Version)](https://wangzhipeng2002.github.io/file/index-zh/)
+
 # About Me
 
 <img src="https://wangzhipeng2002.github.io/zpth.jpg" class="floatpic" width="360" height="360">
