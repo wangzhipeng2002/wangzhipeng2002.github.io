@@ -10,7 +10,7 @@ Here is **Zhipeng Wang (王志鹏)**.
 
 I am a junior student majoring in **Electronic Information Engineering** at Fuzhou University and **Electronic Engineering** at Maynooth University (Ireland, Combined Degrees). 
 
-<img src="https://wangzhipeng2002.github.io/fzu.png" class="floatpic" width="600" height="120">
+<img src="https://wangzhipeng2002.github.io/fzu.jpg" class="floatpic" width="600" height="120">
 
 <br>
 
