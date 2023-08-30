@@ -21,9 +21,8 @@ title: Project
 
   Time: May 2022 - May 2023
 
-<div class="second">
-<img src="/images/zp4.jpg">
-<img src="/images/zpg.jpg">
+<div>
+<img src="/images/zp4.jpg"class="floatpic" width="360" height="360">
 </div>
 <br>
 
@@ -36,7 +35,7 @@ title: Project
   Time: Mar 2023 - Jun 2023
 
 <div>
-<img src="/images/zp3.jpg">
+<img src="/images/zp3.jpg"class="floatpic" width="360" height="360">
 </div>
 <br>
 
@@ -47,6 +46,6 @@ title: Project
   Time: Mar 2022 - Jun 2022
 
 <div>
-<img src="/images/zpa.jpg">
+<img src="/images/zpa.jpg"class="floatpic" width="360" height="360">
 </div>
 <br>
