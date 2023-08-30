@@ -14,9 +14,7 @@ Lastest Update: 30th Aug 2023&nbsp;  [点此切换中文 (Chinese Version)](http
 
 - **Smart e-waste community recycling station**<br>Advisor: [Ph.D. Qian Hui](https://ieeexplore.ieee.org/author/37587238900) (College of Physics and information Engineering, Fuzhou University)<br>Time: May 2022 - May 2023<br>
 
-<div>
-<img src="/images/zp4.jpg">
-</div>
+
 <br>
 
 
@@ -24,14 +22,10 @@ Lastest Update: 30th Aug 2023&nbsp;  [点此切换中文 (Chinese Version)](http
 
 - **Manufacture of portable virtual signal analyzer**<br>Advisor: Ph.D. FookLong Lo (Maynooth University)<br>Time: Mar 2023 - Jun 2023<br>
 
-<div>
-<img src="/images/zp3.jpg">
-</div>
+
 <br>
 
 - **Intelligent street light design based on the Internet of Things**<br>Advisor: [Ph.D. ChinHong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) (Maynooth University)<br>Time: Mar 2022 - Jun 2022<br>
 
-<div>
-<img src="/images/zpa.jpg">
-</div>
+
 <br>
