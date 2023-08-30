@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /file/index-zh/index.html
+title: index-zh
 ---
 
 
