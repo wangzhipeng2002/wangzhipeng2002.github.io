@@ -1,7 +1,5 @@
 ---
 layout: page
-permalink: /index/index.html
-title: Index
 ---
 
 Lastest Update: 30th Aug 2023&nbsp;  [点此切换中文 (Chinese Version)](https://wangzhipeng2002.github.io/file/index-zh/)
