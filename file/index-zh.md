@@ -9,7 +9,7 @@ layout: page
 
 我是 **王志鹏**.
 
-我是一名大三本科生，在 [福州大学](https://www.fzu.edu.cn/) 主修**电子信息工程**专业同时在 [梅努斯大学](https://www.maynoothuniversity.ie/) 主修**Electronic Engineering**专业(爱尔兰，双学位项目) 
+我是一名大三本科生，在[福州大学](https://www.fzu.edu.cn/)主修**电子信息工程**专业同时在[梅努斯大学](https://www.maynoothuniversity.ie/)主修**Electronic Engineering**专业(爱尔兰，双学位项目) 
 
 <img src="https://wangzhipeng2002.github.io/fzu.jpg" class="floatpic" width="600" height="120">
 
