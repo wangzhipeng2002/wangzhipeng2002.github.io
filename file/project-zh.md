@@ -1,25 +1,37 @@
 ---
 layout: page
-permalink: /file/publications-zh/index.html
-title: Publications-zh
+permalink: /file/project-zh/index.html
+title: Project-zh
 ---
 
-## 数学建模竞赛论文
+## 本科生科研训练计划（SRTP）
 
-- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名**Finalist** (Top 1%)<br>
-
-  
-
-- [基于改进型调度算法的无人机遂行编队飞行研究](https://caihanlin.com/mypaper/modeling/202209CUMCM.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年09月“高教社杯”全国大学生数学建模竞赛福建赛区本科组**一等奖**<br>
-
-  
-
-- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组**三等奖**<br>
-
-## 工业实习论文
-
-- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告（2023/02 - 2023/07）<br>
+- **基于图像识别的电动车智能分流系统**<br>指导老师: [Ph.D. 王石平](https://ccds.fzu.edu.cn/info/1202/8958.htm) (计算机与大数据学院, 福州大学)<br>时间: 2023年05月 - 现在<br>
 
 
+- **智能电子废物社区回收站**<br>指导老师: [Ph.D. 钱慧](https://ieeexplore.ieee.org/author/37587238900) (物理与信息工程学院, 福州大学)<br>时间: 2022年05月 - 2023年05月<br>
 
-更新时间：2023/07/02 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
+<div>
+<img src="/images/zp4.jpg">
+</div>
+<br>
+
+
+## 课程设计
+
+- **便携式虚拟信号分析仪设计**<br>指导老师: Ph.D. FookLong Lo (梅努斯大学)<br>时间: 2023年03月 - 2023年06月<br>
+
+<div>
+<img src="/images/zp3.jpg">
+</div>
+<br>
+
+- **基于物联网的智能路灯设计**<br>指导老师: [Ph.D. ChinHong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) (梅努斯大学)<br>时间: 2022年03月 - 2022年06月<br>
+
+<div>
+<img src="/images/zpa.jpg">
+</div>
+<br>
+
+
+更新时间：2023/08/30 &nbsp;  [English Version (英文)](https://wangzhipeng.github.io/project/)
