@@ -4,6 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+Lastest Update: 30th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://wangzhipeng2002.github.io/file/awards-zh/)
 
 ## Scholarships
 
