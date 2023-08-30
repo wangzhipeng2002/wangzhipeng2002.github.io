@@ -34,4 +34,4 @@ title: Project-zh
 <br>
 
 
-更新时间：2023/08/30 &nbsp;  [English Version (英文)](https://wangzhipeng.github.io/project/)
+更新时间：2023/08/30 &nbsp;  [English Version (英文)](https://wangzhipeng2002.github.io/project/)
