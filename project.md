@@ -21,6 +21,10 @@ title: Project
 
  Time: May 2022 - May 2023
 
+<div class="second">
+<img src="/images/zp4.jpg">
+<img src="/images/zpg.jpg">
+</div>
 <br>
 
 ## Curriculum design
@@ -31,6 +35,9 @@ title: Project
 
  Time: Mar 2023 - Jun 2023
 
+<div>
+<img src="/images/zp3.jpg">
+</div>
 <br>
 
 - **Intelligent street light design based on the Internet of Things**
@@ -38,5 +45,8 @@ title: Project
  Advisor: Dr. ChinHong Wong (Maynooth University)
 
  Time: Mar 2022 - Jun 2022
-  
+
+<div>
+<img src="/images/zpa.jpg">
+</div>
 <br>
