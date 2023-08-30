@@ -22,7 +22,7 @@ Time: May 2023 - Now
 Time: May 2022 - May 2023
 
 <div>
-<img src="/images/zp4.jpg" align="middle" width="360" height="240">
+<img src="/images/zp4.jpg">
 </div>
 <br>
 
@@ -35,7 +35,7 @@ Time: May 2022 - May 2023
 Time: Mar 2023 - Jun 2023
 
 <div>
-<img src="/images/zp3.jpg" align="middle" width="360" height="240">
+<img src="/images/zp3.jpg">
 </div>
 <br>
 
@@ -46,6 +46,6 @@ Time: Mar 2023 - Jun 2023
 Time: Mar 2022 - Jun 2022
 
 <div>
-<img src="/images/zpa.jpg" align="middle" width="360" height="240">
+<img src="/images/zpa.jpg">
 </div>
 <br>
