@@ -4,31 +4,30 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-## 奖学金
 
-- 2023年06月：福州大学精神文明先进个人(单项奖学金)
-- 2023年03月：福州大学精神文明先进个人(单项奖学金)<br>
+## Scholarships
 
-## 竞赛
+- Jun 2023：Advanced Individual in Spiritual Civilization of Fuzhou University (Individual Scholarship)
+- Mar 2023：Advanced Individual in Spiritual Civilization of Fuzhou University (Individual Scholarship)<br>
 
-- 2023年08月：福建省大学生计算机设计大赛二等奖
-- 2023年06月: 第四届全国大学生算法设计与编程挑战赛金奖
-- 2023年05月: 福州大学大学生电子设计大赛三等奖
-- 2023年01月: APMCM亚太地区大学生数学建模竞赛三等奖
-- 2022年12月: 第五届传智杯全国大学生IT技能大赛程序设计组全国区域赛一等奖 
-- 2022年11月: 福建省大学生电子设计大赛三等奖
-- 2022年10月：全国大学生数学竞赛网络挑战赛一等奖
-- 2022年10月：外研社·国才杯全国大学生英语写作大赛校级初赛三等奖
-- 2022年10月：天府杯国际数学建模竞赛三等奖
-- 2022年08月: 全国大学生英语语法挑战赛一等奖
-- 2022年07月: 第三届全国大学生算法设计与编程挑战赛铜牌<br>
+## Competitions
 
-## 荣誉
+- Aug 2023：Second Prize in Fujian College Student Computer Design Competition
+- Jun 2023: Gold medal of the 4th National College Students Algorithm Design and Programming Challenge 
+- May 2023: Third prize of Undergraduate Electronic Design Contest of Fuzhou University
+- Jan 2023: Third prize of APMCM Asia-Pacific University Students Mathematical Contest in Modeling
+- Dec 2022: First prize of the 5th Chuanzhi Cup National College Students IT Skills Competition 
+- Nov 2022: Third prize of Undergraduate Electronic Design Contest in Fujian Province
+- Oct 2022：First prize of the National College Students Mathematics Competition Network Challenge
+- Oct 2022：Third prize of school preliminary English Public Writing Contest(FLTRP · ETIC Cup)
+- Oct 2022：Third prize of Tianfu Cup International Mathematical Modeling Competition
+- Aug 2022: First prize of the National College Students English Grammar Challenge
+- Jul 2022: Bronze medal of the 3rd National University Student Algorithm Design and Programming Challenge<br>
 
-- 2023年05月：福州大学优秀共青团员<br>
+## Honors
 
-## 社会服务
+- May 2023：Fuzhou University outstanding Communist Youth League member<br>
 
-- 2022年09月：福州大学梅努斯国际工程学院团支部书记<br>
+## Services
 
-更新时间：2023/08/30 &nbsp; [English Version (英文)](https://wangzhipeng2002.github.io/awards/)
+- Sep 2022：League branch secretary of Maynooth International Engineering College of FZU<br>
