@@ -11,7 +11,7 @@ layout: page
 
 我是 **<font size=6>王志鹏</font>**
 
-一名大三本科生，在[<font size=4>福州大学</font>](https://www.fzu.edu.cn/)主修<font size=4>电子信息工程</font>专业，同时在[<font size=4>爱尔兰国立梅努斯大学</font>](https://www.maynoothuniversity.ie/)主修<font size=4>Electronic Engineering</font>专业(爱尔兰，<font size=4>双学位项目</font>) 
+一名大三本科生，在[**福州大学**](https://www.fzu.edu.cn/)主修**电子信息工程**专业，同时在[**爱尔兰国立梅努斯大学**](https://www.maynoothuniversity.ie/)**Electronic Engineering** 专业(爱尔兰，**双学位项目**) 
 
 我的主要研究兴趣是物联网（智能家居）和计算机视觉
 
