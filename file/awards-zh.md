@@ -4,6 +4,7 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
+Lastest Update:2023/08/30 &nbsp; [Chinese Version (中文)](https://wangzhipeng2002.github.io/awards/)
 
 ## Scholarships
 
@@ -32,6 +33,3 @@ title: Awards-zh
 
 - Sep 2022：League branch secretary of Maynooth International Engineering College of FZU<br>
 
-<br>
-
-Lastest Update:2023/08/30 &nbsp; [Chinese Version (中文)](https://wangzhipeng2002.github.io/awards/)
