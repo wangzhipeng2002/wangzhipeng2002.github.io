@@ -2,8 +2,6 @@
 layout: page
 ---
 
-[Click here to switch to English (English Version)](https://wangzhipeng2002.github.io/file/index-zh/)
-
 # 关于我
 
 <img src="https://wangzhipeng2002.github.io/zpth.jpg" class="floatpic" width="360" height="360">
@@ -37,3 +35,7 @@ layout: page
 - 2023年08月：很高兴获得福建省大学生计算机设计大赛二等奖
 - 2023年08月：成功参加全国大学生电子设计大赛
 - 2023年05月：很高兴成功申请了一项学生研究训练计划
+
+
+
+[Click here to switch to English (English Version)](https://wangzhipeng2002.github.io/file/index-zh/)
