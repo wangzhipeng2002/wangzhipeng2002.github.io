@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Lastest Update: 30th Aug 2023&nbsp;  [点此切换中文 (Chinese Version)](https://wangzhipeng2002.github.io/file/index-zh/)
+[Click here to switch to English (English Version)](https://wangzhipeng2002.github.io/file/index-zh/)
 
 # 关于我
 
