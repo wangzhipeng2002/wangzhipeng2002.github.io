@@ -15,7 +15,7 @@ layout: page
 
 我的主要研究兴趣是物联网（智能家居）和计算机视觉
 
-<img src="https://wangzhipeng2002.github.io/fzu.jpg" class="floatpic" width="1000" height="4000" #pic_center>
+<img src="https://wangzhipeng2002.github.io/fzu.jpg" class="floatpic" width="1000" height="4000">
 
 <br>
 
@@ -35,7 +35,7 @@ layout: page
   <br>
 
 ## 最新消息
-- <font color=Crimson>[重要]</font>当前：找寻一个好的实习机会
+- <font color=Crimson>[重要]</font> 当前：找寻一个好的实习机会
 - 2023.10：成功参加两岸信息服务创新大赛
 - 2023.09：成功参加数学建模国赛
 - 2023.08：很高兴获得福建省大学生计算机设计大赛二等奖
