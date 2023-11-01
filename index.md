@@ -2,7 +2,6 @@
 layout: page
 ---
 
-上次更新: 2023年8月30日&nbsp;  [点此切换英文 (English Version)](https://wangzhipeng2002.github.io/file/index-zh/)
 
 # 关于我
 
@@ -37,3 +36,7 @@ layout: page
 - 2023年08月：很高兴获得福建省大学生计算机设计大赛二等奖
 - 2023年08月：成功参加全国大学生电子设计大赛
 - 2023年05月：很高兴成功申请了一项学生研究训练计划
+
+
+
+上次更新: 2023年8月30日&nbsp;  [点此切换英文 (English Version)](https://wangzhipeng2002.github.io/file/index-zh/)
