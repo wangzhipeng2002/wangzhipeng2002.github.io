@@ -4,28 +4,23 @@ permalink: /project/index.html
 title: Project
 ---
 
-Lastest Update: 30th Aug 2023&nbsp;  [点此切换中文 (Chinese Version)](https://wangzhipeng2002.github.io/file/project-zh/)
+更新时间：2023/08/30 &nbsp;  [English Version (英文)](https://wangzhipeng2002.github.io/file/project-zh/)
 
 
-## Student Research Training Program
+## 本科生科研训练计划（SRTP）
 
-- **Intelligent distribution system of electric vehicle based on image recognition**<br>Advisor: [Ph.D. Wang Shiping](https://ccds.fzu.edu.cn/info/1202/8958.htm) (College of Computer and Data Science, Fuzhou University)<br>Time: May 2023 - Now<br>
-
-
-- **Smart e-waste community recycling station**<br>Advisor: [Ph.D. Qian Hui](https://ieeexplore.ieee.org/author/37587238900) (College of Physics and information Engineering, Fuzhou University)<br>Time: May 2022 - May 2023<br>
+- **基于图像识别的电动车智能分流系统**<br>指导老师: [Ph.D. 王石平](https://ccds.fzu.edu.cn/info/1202/8958.htm) (计算机与大数据学院, 福州大学)<br>时间: 2023年05月 - 现在<br>
 
 
-<br>
-
-
-## Curriculum design
-
-- **Manufacture of portable virtual signal analyzer**<br>Advisor: Ph.D. FookLong Lo (Maynooth University)<br>Time: Mar 2023 - Jun 2023<br>
-
+- **智能电子废物社区回收站**<br>指导老师: [Ph.D. 钱慧](https://ieeexplore.ieee.org/author/37587238900) (物理与信息工程学院, 福州大学)<br>时间: 2022年05月 - 2023年05月<br>
 
 <br>
 
-- **Intelligent street light design based on the Internet of Things**<br>Advisor: [Ph.D. ChinHong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) (Maynooth University)<br>Time: Mar 2022 - Jun 2022<br>
 
+## 课程设计
+
+- **便携式虚拟信号分析仪设计**<br>指导老师: Ph.D. FookLong Lo (梅努斯大学)<br>时间: 2023年03月 - 2023年06月<br>
 
 <br>
+
+- **基于物联网的智能路灯设计**<br>指导老师: [Ph.D. ChinHong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) (梅努斯大学)<br>时间: 2022年03月 - 2022年06月<br>
