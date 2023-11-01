@@ -15,7 +15,9 @@ layout: page
 
 我的主要研究兴趣是物联网（智能家居）和计算机视觉
 
-<div align=center>!<img src="https://wangzhipeng2002.github.io/fzu.jpg">
+<div align=center>
+<img src="https://wangzhipeng2002.github.io/fzu.jpg">
+</div>
 
 <br>
 
