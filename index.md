@@ -13,7 +13,7 @@ layout: page
 
 我是一名大三本科生，在[福州大学](https://www.fzu.edu.cn/)主修**电子信息工程**专业同时在[梅努斯大学](https://www.maynoothuniversity.ie/)主修**Electronic Engineering**专业(爱尔兰，双学位项目) 
 
-<img src="https://wangzhipeng2002.github.io/fzu.jpg" class="floatpic" width="600" height="120">
+<img src="https://wangzhipeng2002.github.io/fzu.jpg" class="floatpic" width="600" height="150">
 
 <br>
 
@@ -37,7 +37,5 @@ layout: page
 - 2023年08月：很高兴获得福建省大学生计算机设计大赛二等奖
 - 2023年08月：成功参加全国大学生电子设计大赛
 - 2023年05月：很高兴成功申请了一项学生研究训练计划
-
-
 
 
