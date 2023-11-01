@@ -9,7 +9,7 @@ layout: page
 <br>
 <img src="https://wangzhipeng2002.github.io/zpth.jpg" class="floatpic" width="360" height="360">
 
-我是 <font size=5>**王志鹏**</font>.
+我是 **<font size=7>王志鹏</font>**.
 
 一名大三本科生，在[福州大学](https://www.fzu.edu.cn/)主修**电子信息工程**专业，同时在[爱尔兰国立梅努斯大学](https://www.maynoothuniversity.ie/)主修**Electronic Engineering**专业(爱尔兰，双学位项目) 
 
@@ -35,9 +35,9 @@ layout: page
   <br>
 
 ## 最新消息
-<font color=Crimson>[重要]</font> 当前：找寻一个好的实习机会
+<font color=Crimson>[重要] 当前：找寻一个好的实习机会</font>
 - 2023.10：成功参加两岸信息服务创新大赛
 - 2023.09：成功参加数学建模国赛
 - 2023.08：很高兴获得福建省大学生计算机设计大赛二等奖
 - 2023.08：成功参加全国大学生电子设计大赛
-- 2023.05：很高兴成功申请了一项学生研究训练计划
+- 2023.05：很高兴成功申请了一项本科生科研训练计划
