@@ -4,7 +4,7 @@ permalink: /project/index.html
 title: Project
 ---
 
-更新时间：2023/08/30 &nbsp;  [English Version (英文)](https://wangzhipeng2002.github.io/file/project-zh/)
+上次更新：2023/08/30 &nbsp;  [English Version (英文)](https://wangzhipeng2002.github.io/file/project-zh/)
 
 
 ## 本科生科研训练计划（SRTP）
