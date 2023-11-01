@@ -1,4 +1,4 @@
-title: Zhipeng Wang
+title: 王志鹏
 # tagline: Here is personal website of Zhipeng Wang. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,23 +6,26 @@ url: https://wangzhipeng2002.github.io
 
 # Owner/author information
 owner:
-  name: Zhipeng Wang
+  name: 王志鹏
   avatar: zzzp.jpg
   description: For Every Minute That I Live, I’ll Enjoy the 60 Seconds.
  # bio:
+  location: "中国·福州"
+  employer: "福州大学"
   email: 832101202@fzu.edu.cn
   github: wangzhipeng2002
+  zhihu: "people/cheng-bei-xu-gong-50-55"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Project
+  - title: 项目
     url: /project/
-  - title: Awards
+  - title: 奖项荣誉
     url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -60,4 +63,3 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Hanlin Cai.
