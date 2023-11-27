@@ -10,8 +10,8 @@ owner:
   avatar: zzzp.jpg
   description: For Every Minute That I Live, I’ll Enjoy the 60 Seconds.
  # bio:
-  location: "中国·福州"
-  employer: "福州大学"
+  location: "China·Fuzhou"
+  employer: "Fuzhou University"
   email: 832101202@fzu.edu.cn
   github: wangzhipeng2002
   zhihu: "people/cheng-bei-xu-gong-50-55"
@@ -27,6 +27,8 @@ links:
     url: /project/
   - title: 奖项荣誉
     url: /awards/
+  - title: 大学生活
+    url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
