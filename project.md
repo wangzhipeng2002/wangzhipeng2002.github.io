@@ -4,9 +4,6 @@ permalink: /project/index.html
 title: Project
 ---
 
-上次更新：2023.11.02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [English Version (英文)](https://wangzhipeng2002.github.io/file/project-zh/)
-
-
 ## 本科生科研训练计划（SRTP）
 
 - **<font size=5>基于图像识别的电动车智能分流系统</font>**<br>

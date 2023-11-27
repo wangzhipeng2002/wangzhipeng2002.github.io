@@ -2,8 +2,6 @@
 layout: page
 ---
 
-上次更新: 2023.11.02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [点此切换英文 (English Version)](https://wangzhipeng2002.github.io/file/index-zh/)
-
 
 # 关于我
 <br>
@@ -40,7 +38,6 @@ layout: page
 - **<font color=Crimson>[重要] 当前：找寻一个好的实习机会</font>**
 - 2023.11：很高兴获得福建省数学建模竞赛三等奖
 - 2023.10：成功入围两岸信息服务创新大赛决赛
-- 2023.09：成功参加数学建模国赛
 - 2023.08：很高兴获得福建省大学生计算机设计大赛二等奖
 - 2023.08：成功参加全国大学生电子设计大赛
 - 2023.05：很高兴成功申请了一项本科生科研训练计划
