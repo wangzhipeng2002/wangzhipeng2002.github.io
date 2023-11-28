@@ -8,13 +8,11 @@ url: https://wangzhipeng2002.github.io
 owner:
   name: 王志鹏
   avatar: zzzp.jpg
-  description: For Every Minute That I Live, I’ll Enjoy the 60 Seconds.
- # bio:
-  location: "China·Fuzhou"
-  employer: "Fuzhou University"
+  location: China·Fuzhou
+  employer: Fuzhou University
   email: 832101202@fzu.edu.cn
   github: wangzhipeng2002
-  zhihu: "people/cheng-bei-xu-gong-50-55"
+  zhihu: https://www.zhihu.com/people/cheng-bei-xu-gong-50-55
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
@@ -28,7 +26,7 @@ links:
   - title: 奖项荣誉
     url: /awards/
   - title: 大学生活
-    url: /hobbies/
+    url: /daily/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
