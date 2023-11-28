@@ -17,13 +17,14 @@ title: Life
 ## HDC大会
 
 <center class="half">
-    <img src="https://wangzhipeng2002.github.io/mmexport1669345272022.jpg" width="200"/><img src="https://wangzhipeng2002.github.io/mmexport1669345329301.jpg" width="200"/><img src="https://wangzhipeng2002.github.io/mmexport1669345387282.jpg" width="200"/></center>
+    <img src="https://wangzhipeng2002.github.io/mmexport1669345272022.jpg" width="150"/><img src="https://wangzhipeng2002.github.io/mmexport1669345329301.jpg" width="150"/><img src="https://wangzhipeng2002.github.io/mmexport1669345387282.jpg" width="150"/></center>
 
 <br>
 
 <br>
 
-## 做无人机
+## 项目
 
 <center class="half">
-    <img src="https://wangzhipeng2002.github.io/IMG_20220725_233142.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/IMG_20220425_194915.jpg" width="400"/></center>
+    <img src="https://wangzhipeng2002.github.io/IMG_20220725_233142.jpg" width="200"/><img src="https://wangzhipeng2002.github.io/IMG_20220425_194915.jpg" width="400"/></center>
+
