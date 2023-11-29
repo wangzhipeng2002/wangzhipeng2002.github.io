@@ -4,18 +4,47 @@ title: 王志鹏
 #Comment out url when working locally to resolve base urls correctly
 url: https://wangzhipeng2002.github.io
 
-# Owner/author information
-owner:
-  name: 王志鹏
-  avatar: zzzp.jpg
-  cv: https://wangzhipeng2002.github.io/wangzhipeng.pdf
-  email: 832101202@fzu.edu.cn
-  github: wangzhipeng2002
-  zhihu: https://www.zhihu.com/people/cheng-bei-xu-gong-50-55
+# Site Author
+author:
+  name             : "王志鹏"
+  avatar           : "zzzp.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "China"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
