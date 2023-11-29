@@ -4,47 +4,20 @@ title: 王志鹏
 #Comment out url when working locally to resolve base urls correctly
 url: https://wangzhipeng2002.github.io
 
-# Site Author
+# Owner/author information
 owner:
-  name             : "王志鹏"
-  avatar           :  zzzp.png
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "China"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      :
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: 王志鹏
+  avatar: zzzp.jpg
+  location: "China"
+  employer: "Fuzhou University"
+  cv: https://wangzhipeng2002.github.io/wangzhipeng.pdf
+  email: 832101202@fzu.edu.cn
+  github: wangzhipeng2002
+  zhihu: https://www.zhihu.com/people/cheng-bei-xu-gong-50-55
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
