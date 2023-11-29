@@ -1,7 +1,5 @@
-title: 王志鹏
-# tagline: Here is personal website of Zhipeng Wang. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
+title: 王志鹏/个人主页
+title_separator: "-"
 url: https://wangzhipeng2002.github.io
 
 # Owner/author information
