@@ -30,3 +30,14 @@ title: Life
 
 <center class="half">
     <img src="https://wangzhipeng2002.github.io/IMG_20220725_233142.jpg" width="150"/><img src="https://wangzhipeng2002.github.io/IMG_20220425_194915.jpg" width="400"/></center>
+
+
+
+
+## 海峡两岸信息赛
+
+<div class="third">
+<img src="https://wangzhipeng2002.github.io/haixia1.jpeg">
+<img src="https://wangzhipeng2002.github.io/haixia2.jpeg">
+<img src="https://wangzhipeng2002.github.io/haixia3.jpg">
+</div>
