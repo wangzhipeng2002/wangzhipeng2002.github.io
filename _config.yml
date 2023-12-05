@@ -23,9 +23,11 @@ links:
     url: /
   - title: 项目
     url: /project/
-  - title: 奖项荣誉
+  - title: 竞赛
     url: /awards/
-  - title: 大学生活
+  - title: 荣誉
+    url: /honor/
+  - title: 日常
     url: /daily/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
