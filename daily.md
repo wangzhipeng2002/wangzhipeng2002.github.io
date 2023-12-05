@@ -33,3 +33,11 @@ title: Life
 <img src="https://wangzhipeng2002.github.io/haixia2.jpeg">
 <img src="https://wangzhipeng2002.github.io/haixia3.jpg">
 </div>
+
+
+
+
+## 校内活动
+
+<center class="half">
+    <img src="https://wangzhipeng2002.github.io/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/gongzuo2.jpg" width="400"/></center>
