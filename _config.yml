@@ -1,4 +1,4 @@
-title: 个人主页
+title: 王志鹏
 title_separator: "-"
 url: https://wangzhipeng2002.github.io
 
@@ -6,7 +6,6 @@ url: https://wangzhipeng2002.github.io
 owner:
   name: 王志鹏
   avatar: zzzp.jpg
-  bio: &description "王志鹏"
   location: "China"
   employer: "Fuzhou University"
   cv: https://wangzhipeng2002.github.io/wangzhipeng.pdf

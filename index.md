@@ -6,7 +6,8 @@ layout: page
 # 关于我
 <br>
 
-我是 **<font size=6>王志鹏</font>**
+> 我是 **<font size=6>王志鹏</font>**
+>
 
 一名大三本科生，在[**福州大学**](https://www.fzu.edu.cn/)主修**电子信息工程**专业，同时在[**爱尔兰国立梅努斯大学**](https://www.maynoothuniversity.ie/)主修 **Electronic Engineering** 专业(爱尔兰，**双学位项目**) 
 

@@ -40,4 +40,4 @@ title: Life
 ## 校内活动
 
 <center class="half">
-    <img src="https://wangzhipeng2002.github.io/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/gongzuo2.jpg" width="400"/></center>
+    <img src="https://wangzhipeng2002.github.io/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/gongzuo2.png" width="400"/></center>

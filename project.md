@@ -4,8 +4,6 @@ permalink: /project/index.html
 title: Project
 ---
 
-[TOC]
-
 ## 本科生科研训练计划（SRTP）🐱‍💻
 
 ------
@@ -46,4 +44,4 @@ title: Project
 
 ### **<font size=5>基于微信小程序的校园租赁平台开发</font>**
 
-指导老师：[林啟锋](https://ccds.fzu.edu.cn/info/1204/8498.htm)<br>课程：软件工程<br>时间：2023.03 - 至今
+指导老师：[林啟锋](https://ccds.fzu.edu.cn/info/1204/8498.htm) (计算机与大数据学院, 福州大学)<br>课程：软件工程<br>时间：2023.03 - 至今
