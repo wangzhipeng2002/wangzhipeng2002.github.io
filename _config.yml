@@ -21,13 +21,15 @@ owner:
 links:
   - title: 关于我
     url: /
-  - title: 项目
+  - title: 项目成果
     url: /project/
-  - title: 竞赛
+  - title: 竞赛奖项
     url: /awards/
-  - title: 荣誉
+  - title: 荣誉奖项
     url: /honor/
-  - title: 日常
+  - title: 在校经历
+    url: /work/
+  - title: 日常记录
     url: /daily/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
