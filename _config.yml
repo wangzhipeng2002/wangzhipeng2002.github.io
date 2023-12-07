@@ -18,18 +18,20 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 关于我
+  - title: 首页
     url: /
-  - title: 项目成果
+  - title: 项目
     url: /project/
-  - title: 竞赛奖项
+  - title: 竞赛
     url: /awards/
-  - title: 荣誉奖项
+  - title: 荣誉
     url: /honor/
   - title: 在校经历
     url: /work/
-  - title: 日常记录
+  - title: 日常
     url: /daily/
+  - title: 评论
+    url: /comment/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
