@@ -9,3 +9,9 @@ title: comment
 ------
 
 {% include disqus.html %} 
+
+
+
+<br>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r-ppOL0AIhirSSvLhP2V49oHMbPgpfCT6HmXFuSn7eQ"></script>
