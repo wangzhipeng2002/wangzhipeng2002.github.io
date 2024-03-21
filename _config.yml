@@ -28,8 +28,6 @@ links:
     url: /work/
   - title: 日常
     url: /daily/
-  - title: 访客评论与地图
-    url: /comment/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
