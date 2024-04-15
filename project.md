@@ -24,7 +24,7 @@ title: Project
 
 ------
 
-### **<font size=5>彩旗说——智能在线口语练习平台</font>**
+### **<font size=5>口语练习平台</font>**
 
 指导老师: [林一](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T15064)(物理与信息工程学院, 福州大学)<br>时间: 2023.05 - 至今<br>项目简介：基于自然语言处理模型GPT-3.5的智能在线口语练习平台，通过语音与AI交流，提供四六级等不同难度进行练习<br>项目链接：[https://speak.fzuenactus.org.cn](https://speak.fzuenactus.org.cn)<br>项目成果：中国大学生计算机设计大赛福建省级赛二等奖、海峡两岸信息服务创新大赛三等奖、1项软件著作权
 
