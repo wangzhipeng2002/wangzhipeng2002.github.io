@@ -9,7 +9,7 @@ title: Life
 ## 开学典礼
 
 <center class="half">
-    <img src="https://wangzhipeng2002.github.io/images/IMG_20211204_093607.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/IMG_20211204_093155.jpg" width="400"/></center>
+    <img src="https://wangzhipeng2002.github.io/images/kaixue2.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/kaixue1.jpg" width="400"/></center>
 
 <br>
 
@@ -18,10 +18,11 @@ title: Life
 ## HDC大会
 
 <div class="third">
-<img src="https://wangzhipeng2002.github.io/images/mmexport1669345272022.jpg">
-<img src="https://wangzhipeng2002.github.io/images/mmexport1669345329301.jpg">
-<img src="https://wangzhipeng2002.github.io/images/mmexport1669345387282.jpg">
+<img src="https://wangzhipeng2002.github.io/images/hdc1.jpg">
+<img src="https://wangzhipeng2002.github.io/images/hdc2.jpg">
+<img src="https://wangzhipeng2002.github.io/images/hdc3.jpg">
 </div>
+
 
 <br>
 
@@ -43,6 +44,20 @@ title: Life
 
 ## 校内活动
 
-<center class="half">
-    <img src="https://wangzhipeng2002.github.io/images/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/gongzuo2.png" width="400"/></center>
 
+				HTML
+				
+					
+				
+				
+						
+				
+			di <center class="half">    <img src="https://wangzhipeng2002.github.io/images/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/gongzuo2.png" width="400"/></center>
+    
+
+
+## <u>电赛</u>				
+
+```html
+		di <center class="half">    <img src="https://wangzhipeng2002.github.io/images/diansai1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/diansai2.jpg" width="400"/></center>
+```
