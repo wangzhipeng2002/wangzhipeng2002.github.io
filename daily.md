@@ -37,27 +37,20 @@ title: Life
 </div>
 
 
-
 <br>
 
 <br>
 
 ## 校内活动
 
+```html
+<center class="half">    <img src="https://wangzhipeng2002.github.io/images/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/gongzuo2.png" width="400"/></center>
+```
 
-				HTML
-				
-					
-				
-				
-						
-				
-			di <center class="half">    <img src="https://wangzhipeng2002.github.io/images/gongzuo1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/gongzuo2.png" width="400"/></center>
-    
 
 
 ## <u>电赛</u>				
 
 ```html
-		di <center class="half">    <img src="https://wangzhipeng2002.github.io/images/diansai1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/diansai2.jpg" width="400"/></center>
+<center class="half">    <img src="https://wangzhipeng2002.github.io/images/diansai1.jpg" width="400"/><img src="https://wangzhipeng2002.github.io/images/diansai2.jpg" width="400"/></center>
 ```
