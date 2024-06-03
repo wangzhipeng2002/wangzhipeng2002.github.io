@@ -12,11 +12,6 @@ title: work
 
 时间：2022.09 - 至今<br>
 
-<div align=center>
-<img src="https://wangzhipeng2002.github.io/images/tuanzhishu.jpg">
-</div>
-
-
 <br>
 
 ## 培训经历📌
