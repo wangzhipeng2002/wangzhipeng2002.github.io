@@ -6,10 +6,10 @@ layout: page
 # 关于我
 <br>
 
-> 我是 **<font size=6>王志鹏</font>**
+> 我是 **<font size=6></font>**
 >
 
-一名大三本科生，在[**福州大学**](https://www.fzu.edu.cn/)主修**电子信息工程**专业，同时在[**爱尔兰国立梅努斯大学**](https://www.maynoothuniversity.ie/)主修 **Electronic Engineering** 专业(爱尔兰，**双学位项目**) 
+一名大三本科生， 
 
 <div align=center>
 <img src="https://wangzhipeng2002.github.io/images/school logo.jpg">
@@ -27,8 +27,8 @@ layout: page
 
 ## 教育背景👨‍🎓
 
-- 2021.09 - 2025.06: 福州大学 (工学学士学位)
-- 2021.09 - 2025.06: 爱尔兰国立梅努斯大学 (工学学士学位)
+- 2021.09 - 2025.06: 
+- 2021.09 - 2025.06: 
 - 2018.09 - 2021.06: 福州第四中学 
 - 2015.09 - 2018.06: 福州第十九中学
   
